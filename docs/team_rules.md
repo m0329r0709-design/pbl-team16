@@ -3,7 +3,7 @@
 - チーム番号:16
 - グループ: A / B
 - 担当TA:小松
-- メンバ:田村 龍之介, 渡部　龍一
+- メンバ:田村 龍之介, 堀田　倖成,渡部　龍一
 - リポジトリURL:https://github.com/m0329r0709-design/pbl-team16.git
 - Slack チャンネル:https://tus-it-all.slack.com/archives/C0CJFET4FBN
 
